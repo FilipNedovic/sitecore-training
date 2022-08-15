@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\filip\Documents\SitecoreContainerDeployment.10.2.0.006766.683\compose\ltsc2019\xp0\build</_PublishTargetUrl>
-    <History>True|2022-08-15T07:43:05.4204642Z;True|2022-08-15T09:36:43.1539108+02:00;True|2022-08-15T09:30:39.8945504+02:00;True|2022-08-12T18:24:55.4156604+02:00;True|2022-08-12T15:30:54.9760548+02:00;True|2022-08-12T15:27:54.9157077+02:00;True|2022-08-12T15:14:54.9569160+02:00;True|2022-08-12T10:41:36.3686115+02:00;True|2022-08-11T16:32:59.5177717+02:00;True|2022-08-11T16:05:21.3329857+02:00;True|2022-08-11T15:24:41.3293806+02:00;True|2022-08-11T14:24:38.5342958+02:00;True|2022-08-11T14:23:46.5618331+02:00;True|2022-08-11T14:19:26.6759503+02:00;</History>
+    <History>True|2022-08-15T08:32:16.2768233Z;True|2022-08-15T10:32:03.5629623+02:00;True|2022-08-15T09:43:05.4204642+02:00;True|2022-08-15T09:36:43.1539108+02:00;True|2022-08-15T09:30:39.8945504+02:00;True|2022-08-12T18:24:55.4156604+02:00;True|2022-08-12T15:30:54.9760548+02:00;True|2022-08-12T15:27:54.9157077+02:00;True|2022-08-12T15:14:54.9569160+02:00;True|2022-08-12T10:41:36.3686115+02:00;True|2022-08-11T16:32:59.5177717+02:00;True|2022-08-11T16:05:21.3329857+02:00;True|2022-08-11T15:24:41.3293806+02:00;True|2022-08-11T14:24:38.5342958+02:00;True|2022-08-11T14:23:46.5618331+02:00;True|2022-08-11T14:19:26.6759503+02:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/events.tac.local.dll">
@@ -213,7 +213,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/12/2022 17:31:51</publishTime>
     </File>
     <File Include="Views/web.config">
-      <publishTime>08/11/2022 14:25:27</publishTime>
+      <publishTime>08/15/2022 10:32:00</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>08/12/2022 10:41:36</publishTime>
